@@ -13,7 +13,7 @@ Aplikasi manajemen data mahasiswa adalah program Python sederhana yang memungkin
 
 ### Flowchart
 
-![](gifpic/flow.png)
+![WhatsApp Image 2024-12-02 at 21 45 10_65bd2146](https://github.com/user-attachments/assets/2f7a4a60-843d-407b-ac1a-919d235e711d)
 
 ### Struktur Data
 Program menggunakan struktur data list untuk menyimpan data mahasiswa, dimana setiap mahasiswa direpresentasikan sebagai dictionary dengan dua kunci:
@@ -89,7 +89,7 @@ mahasiswa = []  # List untuk menyimpan data mahasiswa
 
 ### Menambahkan Data Mahasiswa
 
-![](gifpic/1.gif)
+![WhatsApp Image 2024-12-03 at 00 37 06_7ab3da22](https://github.com/user-attachments/assets/c1ada771-ca73-49c3-ad52-a20d9cd0d410)
 
 Fitur ini digunakan untuk menambah data Mahasiswa berupa nama dan nilai.
 
