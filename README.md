@@ -95,25 +95,26 @@ Fitur ini digunakan untuk menambah data Mahasiswa berupa nama dan nilai.
 
 ### Menampilkan Data Mahasiswa
 
-![](gifpic/2.png)
+![WhatsApp Image 2024-12-02 at 21 43 24_105a7d1d](https://github.com/user-attachments/assets/a0fb6222-c9c0-4b82-8947-3b3973b3c232)
 
 Fitur ini digunakan untuk menampilkan Data mahasiswa yamg telah tersimpan.
 
 ### Hapus Data Mahasiswa
 
-![](gifpic/3.png)
+![WhatsApp Image 2024-12-02 at 21 43 25_a99dab59](https://github.com/user-attachments/assets/c4b4f7dd-e236-4347-9a83-bb87ce04ab5a)
+
 
 Fitur ini digunakan untuk menghapus nama mahasiswa yang telah tersimpan dengan cara mengetik nama mahasiswa yang ingin dihapus.
 
 ### Ubah Data
 
-![](gifpic/4.png)
+![WhatsApp Image 2024-12-02 at 21 43 55_c685797d](https://github.com/user-attachments/assets/9078f397-567c-40f3-a43b-f90f1dcc60ad)
 
 Fitur ini digunakan untuk mengubah nama mahasiswa yang telah tersimpan dengan cara mengetik nama mahasiswa yang ingin diubah.
 
 ### keluar
 
-![](gifpic/5.png)
+![WhatsApp Image 2024-12-02 at 21 44 26_bd9c50ad](https://github.com/user-attachments/assets/3cd72bc4-a9a4-40c0-8d41-7646eac5a250)
 
 Fitur ini digunakan untuk mengakhiri program.
 
@@ -128,8 +129,8 @@ python manajemen_mahasiswa.py
 
 ## Author 
 
-*Arfianda F. Satritama*
+*Nama: Rhendy Zhaky Alvian*
 
 *NIM: 312410377*
 
-*Teknik Informatika UPB*
+*Fakultas: Teknik Informatika UPB*
